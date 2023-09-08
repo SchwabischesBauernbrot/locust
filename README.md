@@ -1,5 +1,5 @@
 # locust
-# 
+# https://rentry.org/gookmade
 
 Follow the steps below to set up your environment with Imprompt.ai:
 
